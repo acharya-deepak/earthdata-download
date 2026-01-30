@@ -63,7 +63,7 @@
     "react-icons": "^4.8.0",
     "react-middle-ellipsis": "^1.2.2",
     "simplebar-react": "^3.2.4",
-    "sqlite3": "^5.1.6"
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.21.0",
